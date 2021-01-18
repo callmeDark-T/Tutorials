@@ -4,4 +4,6 @@ var firstName = "Tamajong Asamba";
 var lastName = 'Aiden';
 console.log(found);
 console.log("The grade is " + grade);
-console.log(" Hi " + firstName + " " + lastName);
+console.log("Hi " + firstName + " " + lastName);
+// use template string with back single string
+console.log("Hi " + firstName + " " + lastName);
